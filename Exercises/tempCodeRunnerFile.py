@@ -1,0 +1,1 @@
+ print(f"first char: {str[str:-1]}")
